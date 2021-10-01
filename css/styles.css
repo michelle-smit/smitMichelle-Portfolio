@@ -468,3 +468,8 @@
        padding: 15px;
        margin-bottom: 17px;
    }
+   aside{
+       padding: 10px 20px;
+       background-color: rgba(0, 10, 44, 0.932);
+       color: #fff;
+   }
