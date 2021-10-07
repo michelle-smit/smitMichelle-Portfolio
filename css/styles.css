@@ -148,7 +148,7 @@
     }
     .course-col{
         flex-basis: 31%;
-        background: #fff3f3;
+        background: #f4f3ff;
         border-radius: 10px;
         margin-bottom: 5%;
         padding: 20px 12px;
@@ -178,7 +178,7 @@
     }
     .campus-col{
         flex-basis: 32%;
-        background: #fff3f3;
+        background: #f4f3ff;
         border-radius: 10px;
         margin-bottom: 30px;
         position: relative;
@@ -225,7 +225,7 @@
     }
     .facilities-col{
         flex-basis: 31%;
-        background: #fff3f3;
+        background: #f4f3ff;
         border-radius: 10px;
         margin-bottom: 5%;
         text-align: left;
@@ -252,7 +252,7 @@
     }
     .testimonial-col{
         flex-basis: 44%;
-        background: #fff3f3;
+        background: #f4f3ff;
         border-radius: 10px;
         margin-bottom: 5%;
         text-align: left;
